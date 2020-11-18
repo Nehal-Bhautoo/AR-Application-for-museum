@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class MaterialModifier : MonoBehaviour {
 
-    public MeshRenderer material;
+    //public MeshRenderer material;
+    public Material material;
     public Slider red;
     public Slider green;
     public Slider blue;
@@ -13,11 +14,11 @@ public class MaterialModifier : MonoBehaviour {
     // Update is called once per frame
     public void onEdit()
     {
-        Color color = material.material.color;
+        Color color = material.color;
         color.r = red.value;
         color.g = green.value;
         color.b = blue.value;
-        material.material.color = color;
-        material.material.SetColor("_EmissionColor", color);
+        material.color = color;
+        material.SetColor("_EmissionColor", color);
     }
 }
