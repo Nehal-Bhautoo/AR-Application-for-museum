@@ -9,4 +9,9 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("ARScene");
     }
+
+    public void MobileScene()
+    {
+        SceneManager.LoadScene("MobileUI");
+    }
 }
