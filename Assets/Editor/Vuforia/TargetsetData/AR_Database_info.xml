@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
   <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-11-22T18:42:23Z" name="test3" targetId="946dd1908d954ac39cd65bfc376d0e78" version="2.0" />
     <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-11-22T17:23:08Z" name="test1" targetId="30c09552313c496a98f61992aa4ff5c5" version="2.0" />
     <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-11-18T17:59:33Z" name="test2" targetId="577015aa703145f785e22327005a6a33" version="2.0" />
   </TargetSet>
