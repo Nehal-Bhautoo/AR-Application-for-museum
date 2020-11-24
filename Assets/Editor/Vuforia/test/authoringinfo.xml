@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.5.3">
+<ModelTarget name="ferrari dino sketchfab" targetId="1f397c7eda26490ba058989aa1ad3c5e" version="11.1" toolVersion="9.5.3" bbox="-0.006473 -0.000002 -0.016254 0.006473 0.008288 0.015612" previewImage="1f397c7eda26490ba058989aa1ad3c5e_preview.jpg"/>
+<ModelTarget name="datsun240k" targetId="7f3b5254f0fb4022918efec87ac94038" version="11.1" toolVersion="9.5.3" bbox="-0.068592 -0.034237 -0.137184 0.068592 0.038143 0.137184" previewImage="7f3b5254f0fb4022918efec87ac94038_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ferrari dino sketchfabs_assembly" assemblyId="5d12a9bb83c641d8b7e67d2cbd0c9658">
+<Part name="ferrari dino sketchfab" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000121391 0.0040336 0.0279458" rotation="AD: 0.9999825804102788 0.030976484026833322 -0.19658580057596634 197.57" image="ferrari dino sketchfab_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="datsun240ks_assembly" assemblyId="9522db575928444db6639e661cfa7951">
+<Part name="datsun240k" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="8.67362e-19 0.00128628 0.237069" rotation="AD: 0.9999792152308766 0.02826277739711194 -0.23606307088138276 193.288" image="datsun240k_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="112998c4042649baa2b7a0279c750370" name="test" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="5d12a9bb83c641d8b7e67d2cbd0c9658" assemblyName="ferrari dino sketchfab" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="9522db575928444db6639e661cfa7951" assemblyName="datsun240k" entryPoint="viewpoint_0000" />
+</ModelTargetDatabase>
+
+</QCARInfo>
