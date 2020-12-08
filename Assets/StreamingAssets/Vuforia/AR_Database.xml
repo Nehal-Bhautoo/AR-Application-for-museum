@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Auburn-851" size="0.250000 0.166112" />
+    <ImageTarget name="6256_1" size="0.250000 0.166555" />
+    <ImageTarget name="rla-aw262_cd_xl" size="0.250000 0.187500" />
     <ImageTarget name="BRM-V16" size="0.250000 0.184541" />
-    <ImageTarget name="Allard-J2" size="0.250000 0.212160" />
   </Tracking>
 </QCARConfig>
