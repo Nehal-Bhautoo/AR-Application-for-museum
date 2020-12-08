@@ -1694,13 +1694,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 591567011}
-  m_LocalRotation: {x: 0.009789134, y: -0.9677591, z: 0.25083378, w: 0.02071264}
+  m_LocalRotation: {x: 0.0048955358, y: -0.9999881, z: 0, w: 0}
   m_LocalPosition: {x: -0.363, y: 0.034, z: 0.242}
   m_LocalScale: {x: 0.023325477, y: 0.023325477, z: 0.023325477}
   m_Children: []
   m_Father: {fileID: 2001551399}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 29.071001, y: -177.69301, z: -0.56100005}
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: -0.56100005}
 --- !u!65 &591567013
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2154,7 +2154,7 @@ TextMesh:
   m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
-    rgba: 4294917157
+    rgba: 4294967295
 --- !u!23 &756997438
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2222,7 +2222,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 761410991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.363, y: 0, z: 0.242}
+  m_LocalPosition: {x: -0.363, y: 0.0392, z: 0.242}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 2001551399}
@@ -3000,7 +3000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74487cda3c609b74fb0c359639af5d62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: 10
 --- !u!1 &955329794
 GameObject:
   m_ObjectHideFlags: 0
@@ -3444,13 +3443,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072888092}
-  m_LocalRotation: {x: 0.009789134, y: -0.9677591, z: 0.25083378, w: 0.02071264}
+  m_LocalRotation: {x: 0.0048955358, y: -0.9999881, z: 0, w: 0}
   m_LocalPosition: {x: -0.363, y: 0.034, z: 0.242}
   m_LocalScale: {x: 0.023325477, y: 0.023325477, z: 0.023325477}
   m_Children: []
   m_Father: {fileID: 2001551399}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 29.071001, y: -177.69301, z: -0.56100005}
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: -0.56100005}
 --- !u!64 &1072888094
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4381,7 +4380,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: -6271897200390792742, guid: d9472f159558e5b4b9679a85d3181d7c, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
