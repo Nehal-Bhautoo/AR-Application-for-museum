@@ -807,6 +807,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CarInfo: {fileID: 1112304055}
+  GalleryIcon: {fileID: 513736979}
+  PlayIcon: {fileID: 591567011}
+  StopIcon: {fileID: 1072888092}
 --- !u!114 &337763210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -851,7 +854,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 337763209}
-        m_MethodName: OpenSlideShow
+        m_MethodName: OpenAllardInfo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4000,7 +4003,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1112304056
 Transform:
   m_ObjectHideFlags: 0
