@@ -161,9 +161,9 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 14949036}
-  m_Text: "Arguably one of the most sensational sports cars ever built. American
-    racing driver\nCarroll Shelby developed the Cobra from the AC Ace in 1962. They
-    were built by AC\nin Thames Ditton and shipped to Shelby\u2019s works in California
+  m_Text: "Arguably one of the most sensational sports cars ever built. American racing
+    driver\nCarroll Shelby developed the Cobra from the AC Ace in 1962. They were
+    built by AC\nin Thames Ditton and shipped to Shelby\u2019s works in California
     for the installation of the\nFord V8 engine. Initially, these were 4,260cc but
     soon enlarged to 4,736cc"
   m_OffsetZ: 0
@@ -919,14 +919,14 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 223974226}
-  m_Text: "British Racing Motors was established in the 1940s to build a British
-    Grand Prix car.\nThe result was the iconic BRM Type 15, powered by a 1\xBD-litre
-    16-cylinder supercharged engine, \nand the first car to use disc brakes in road
-    racing. Although ultimately unsuccessful, \nthe BRM was a stepping stone on the
-    path to Britain\u2019s dominance of the sport in later years.\nEven with drivers
-    such as Juan Manuel Fangio and Stirling Moss, BRM V16s met with little success,\nfinishing
-    in only one World Championship event, the 1951 British Grand Prix. \nThis car,
-    chassis 1/01, was driven to fifth place in that race by Reg Parnell."
+  m_Text: "British Racing Motors was established in the 1940s to build a British Grand
+    Prix car.\nThe result was the iconic BRM Type 15, powered by a 1\xBD-litre 16-cylinder
+    supercharged engine, \nand the first car to use disc brakes in road racing. Although
+    ultimately unsuccessful, \nthe BRM was a stepping stone on the path to Britain\u2019s
+    dominance of the sport in later years.\nEven with drivers such as Juan Manuel
+    Fangio and Stirling Moss, BRM V16s met with little success,\nfinishing in only
+    one World Championship event, the 1951 British Grand Prix. \nThis car, chassis
+    1/01, was driven to fifth place in that race by Reg Parnell."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -3874,8 +3874,8 @@ TextMesh:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672685346}
   m_Text: "Silver Arrows (German: Silberpfeil) was the nickname given \nby the press
-    to Germany's dominant Mercedes-Benz \nand Auto Union Grand Prix motor racing
-    cars \nbetween 1934 and 1939."
+    to Germany's dominant Mercedes-Benz \nand Auto Union Grand Prix motor racing cars
+    \nbetween 1934 and 1939."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -4420,8 +4420,8 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 739339628}
-  m_Text: "By 1937, \nthe supercharged engine of a Mercedes-Benz W125 \nattained
-    an output of 646 hp (475 kW)."
+  m_Text: "By 1937, \nthe supercharged engine of a Mercedes-Benz W125 \nattained an
+    output of 646 hp (475 kW)."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -6524,12 +6524,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83f56d9806e1aee48bcdb37eac460465, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameObject1: {fileID: 0}
-  gameObject2: {fileID: 0}
-  gameObject3: {fileID: 0}
-  gameObject4: {fileID: 0}
-  gameObject5: {fileID: 0}
-  gameObject6: {fileID: 0}
+  gameObject1: {fileID: 1751125379}
+  gameObject2: {fileID: 1351161576}
+  gameObject3: {fileID: 822180925}
+  gameObject4: {fileID: 1524899166}
+  gameObject5: {fileID: 657103452}
+  gameObject6: {fileID: 1920645079}
 --- !u!114 &995126242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9190,11 +9190,11 @@ TextMesh:
   m_Text: 'This car was built to full competition specification and competed in a
     number of
 
-    European races during 1966 including the Targa Florio. Later owners
-    used it in club
+    European races during 1966 including the Targa Florio. Later owners used it in
+    club
 
-    races and hill climbs in the UK until the early 1970s. It
-    was later rebuilt into its current
+    races and hill climbs in the UK until the early 1970s. It was later rebuilt into
+    its current
 
     form with modified bodywork.'
   m_OffsetZ: 0
@@ -9289,12 +9289,11 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1524899166}
-  m_Text: "When Enzo Ferrari, the famous Ferrari owner, was 34 years old, he was
-    still a professional driver.\nBut an event changed his life: he became father
-    of Alfredo,\nhe son born from his love with Laura Garello, with whom he was married.
-    \nWhen Alfredo was born, Enzo decided to stop racing with cars.\nHe later founded
-    the Auto Avio Costruzioni (in 1939), the ancestress of the Ferrari, which was
-    founded in 1947."
+  m_Text: "When Enzo Ferrari, the famous Ferrari owner, was 34 years old, he was still
+    a professional driver.\nBut an event changed his life: he became father of Alfredo,\nhe
+    son born from his love with Laura Garello, with whom he was married. \nWhen Alfredo
+    was born, Enzo decided to stop racing with cars.\nHe later founded the Auto Avio
+    Costruzioni (in 1939), the ancestress of the Ferrari, which was founded in 1947."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -9416,8 +9415,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "The British Racing Motors V16 was a supercharged \n1.5 litre (90.8 cu
-    in) V-16 cylinder racing engine \nbuilt by British Racing Motors (BRM) for competing
+  m_Text: "The British Racing Motors V16 was a supercharged \n1.5 litre (90.8 cu in)
+    V-16 cylinder racing engine \nbuilt by British Racing Motors (BRM) for competing
     \nin Formula One motor racing in the immediate \naftermath of World War II. Designed
     in 1947 \nand raced until 1954\u201355, it produced 600 bhp (\n450 kW) at 12,000
     rpm."
@@ -11882,11 +11881,11 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1920645079}
-  m_Text: "A smaller and more affordable Ferrari arrived in 1967 as the Dino 206
-    GT. \nDino was the nickname of Enzo Ferrari\u2019s son.\r\n\r\n3,000 of the more
-    powerful Pininfarina-styled 246 GT and 246 GTS were built between 1969 and 1974.
-    \nFeatures included rear mounted transverse 195hp V6 four cam engines with Fiat
-    transmissions, \nplus all-round disc brakes and independent suspension."
+  m_Text: "A smaller and more affordable Ferrari arrived in 1967 as the Dino 206 GT.
+    \nDino was the nickname of Enzo Ferrari\u2019s son.\r\n\r\n3,000 of the more powerful
+    Pininfarina-styled 246 GT and 246 GTS were built between 1969 and 1974. \nFeatures
+    included rear mounted transverse 195hp V6 four cam engines with Fiat transmissions,
+    \nplus all-round disc brakes and independent suspension."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1

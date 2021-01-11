@@ -14,4 +14,9 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("MobileUI");
     }
+
+    public void MuseumScene()
+    {
+        SceneManager.LoadScene("Museum");
+    }
 }
