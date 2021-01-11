@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.5.3">
+<ModelTarget name="Shelby" targetId="38b9c95acd6d499bbda5c3ad45f7a35c" version="11.1" toolVersion="9.5.3" bbox="-0.047665 -0.001508 -0.013947 0.017638 0.019298 0.013784" previewImage="38b9c95acd6d499bbda5c3ad45f7a35c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Shelbys_assembly" assemblyId="99024a4fc6e64b809f7b4bf1a4d31daa">
+<Part name="Shelby" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00525314 0.00399501 0.0796345" rotation="AD: 0.9979619387234084 0.1129336904537209 -0.6966752125580978 195.079" image="Shelby_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
