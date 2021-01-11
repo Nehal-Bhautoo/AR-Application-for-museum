@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class ToggleVisiibilty : MonoBehaviour
 {
+    public GameObject gameObjects;
+   
     public void ToogleObjectVisibilty()
     {
-        Renderer render = gameObject.GetComponent<Renderer>();
+        Renderer render = gameObjects.GetComponent<Renderer>();
         if (render.enabled)
         {
             render.enabled = false;
