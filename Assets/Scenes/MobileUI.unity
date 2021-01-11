@@ -886,7 +886,6 @@ GameObject:
   - component: {fileID: 1889783767}
   - component: {fileID: 1889783766}
   - component: {fileID: 1889783765}
-  - component: {fileID: 1889783768}
   m_Layer: 5
   m_Name: Museum History
   m_TagString: Untagged
@@ -957,7 +956,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1889783768}
+      - m_Target: {fileID: 1605178102}
         m_MethodName: MuseumScene
         m_Mode: 1
         m_Arguments:
@@ -1005,15 +1004,3 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1889783763}
   m_CullTransparentMesh: 0
---- !u!114 &1889783768
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1889783763}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 63845ee243f1f044ebbf555d89005e28, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
