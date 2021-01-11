@@ -5,16 +5,29 @@ using UnityEngine;
 public class ToggleVisiibilty : MonoBehaviour
 {
     public GameObject gameObjects;
-   
+
+    private void Update()
+    {
+        ToogleObjectVisibilty();
+    }
+
     public void ToogleObjectVisibilty()
     {
-        Renderer render = gameObjects.GetComponent<Renderer>();
-        if (render.enabled)
+        if(Input.touchCount > 0)
         {
-            render.enabled = false;
+            if(Input.GetTouch(0).phase == TouchPhase.Began)
+            {
+                Renderer render = gameObjects.GetComponent<Renderer>();
+                if (render.enabled)
+                {
+                    render.enabled = false;
+                }
+                else
+                {
+                    render.enabled = true;
+                }
+            }
         }
-        else {
-            render.enabled = true;
-        }
+        
     }
 }
