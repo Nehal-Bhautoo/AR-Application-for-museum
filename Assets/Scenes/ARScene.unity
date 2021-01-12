@@ -325,8 +325,8 @@ GameObject:
   - component: {fileID: 56593133}
   - component: {fileID: 56593132}
   m_Layer: 0
-  m_Name: Play
-  m_TagString: Play
+  m_Name: HistoryPlay
+  m_TagString: HistoryPlay
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -433,8 +433,8 @@ GameObject:
   - component: {fileID: 66881374}
   - component: {fileID: 66881373}
   m_Layer: 0
-  m_Name: Stop
-  m_TagString: Stop
+  m_Name: HistoryStop
+  m_TagString: HistoryStop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1261,8 +1261,8 @@ GameObject:
   - component: {fileID: 325301691}
   - component: {fileID: 325301690}
   m_Layer: 0
-  m_Name: Stop
-  m_TagString: Stop
+  m_Name: EngineStop
+  m_TagString: EngineStop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1646,7 +1646,7 @@ GameObject:
   - component: {fileID: 354322554}
   - component: {fileID: 354322553}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: InfoCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1675,7 +1675,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 354322551}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 423364c6e5dd5ce40b09ba681d947293, type: 3}
+  m_Script: {fileID: 11500000, guid: 7addb466e64e38647b9d7810ec93f1ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!82 &354322554
@@ -1926,7 +1926,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &379129530
 Transform:
   m_ObjectHideFlags: 0
@@ -3073,8 +3073,8 @@ GameObject:
   - component: {fileID: 555571301}
   - component: {fileID: 555571300}
   m_Layer: 0
-  m_Name: Stop
-  m_TagString: Stop
+  m_Name: InfoStop
+  m_TagString: InfoStop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4713,7 +4713,7 @@ GameObject:
   - component: {fileID: 796986722}
   - component: {fileID: 796986721}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: EngineCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4742,7 +4742,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 796986719}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 423364c6e5dd5ce40b09ba681d947293, type: 3}
+  m_Script: {fileID: 11500000, guid: b67f4b9cf59648a4388fb7c5a91f4a2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!82 &796986722
@@ -5280,7 +5280,7 @@ GameObject:
   - component: {fileID: 885217148}
   - component: {fileID: 885217147}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: HistoryCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5309,7 +5309,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 885217145}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 423364c6e5dd5ce40b09ba681d947293, type: 3}
+  m_Script: {fileID: 11500000, guid: c089d4970ae6d1b4e963a54533561f8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!82 &885217148
@@ -7548,8 +7548,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1179125764}
   m_LocalRotation: {x: 0.7683836, y: -0, z: -0, w: 0.6399895}
-  m_LocalPosition: {x: -4.6, y: 1.07, z: -1.56}
-  m_LocalScale: {x: 0.27912557, y: 0.72210073, z: 1}
+  m_LocalPosition: {x: -4.46, y: -1, z: -1.78}
+  m_LocalScale: {x: 0.23858817, y: 0.6084132, z: 0.71876}
   m_Children: []
   m_Father: {fileID: 379129530}
   m_RootOrder: 1
@@ -8882,8 +8882,8 @@ GameObject:
   - component: {fileID: 1447757532}
   - component: {fileID: 1447757531}
   m_Layer: 0
-  m_Name: Play
-  m_TagString: Play
+  m_Name: InfoPlay
+  m_TagString: InfoPlay
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10280,16 +10280,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1675805433}
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0.04979}
+  m_LocalRotation: {x: -0, y: -0.71799046, z: -0, w: 0.696053}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0493}
   m_LocalScale: {x: 0.003965625, y: 0.0047102347, z: 0.02}
   m_Children: []
   m_Father: {fileID: 2035435676}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -91.77801, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.197, y: 0.04245}
+  m_AnchoredPosition: {x: 0.1978, y: 0.04245}
   m_SizeDelta: {x: 6, y: 6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1675805435
@@ -11939,8 +11939,8 @@ GameObject:
   - component: {fileID: 1929186306}
   - component: {fileID: 1929186305}
   m_Layer: 0
-  m_Name: Play
-  m_TagString: Play
+  m_Name: EnginePlay
+  m_TagString: EnginePlay
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12670,7 +12670,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2035435676
 RectTransform:
   m_ObjectHideFlags: 0

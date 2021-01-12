@@ -7,6 +7,12 @@ TagManager:
   - videoPlayer
   - Play
   - Stop
+  - HistoryPlay
+  - HistoryStop
+  - EnginePlay
+  - EngineStop
+  - InfoPlay
+  - InfoStop
   layers:
   - Default
   - TransparentFX
