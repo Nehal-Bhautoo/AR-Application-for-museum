@@ -20,4 +20,4 @@ Vuforia is a computer vision library used for AR development and is incorporated
 ###### **Lean Touch**
 
 ## Screenshots
-<img src="Screenshots/1.jpg" width="400" height="550"> <img src="Screenshots/2.jpg" width="400" height="550"> <img src="Screenshots/3.jpg" width="400" height="550">
+<img src="Screenshots/1.jpg" width="450" height="550"> <img src="Screenshots/2.jpg" width="450" height="550"> <img src="Screenshots/3.jpg" width="450" height="550">
