@@ -26,6 +26,8 @@ Quickly add touch controls to your game using Lean Touch ― no code required! S
 **Touch Simulation** ― Lean Touch allows you to simulate and visualize touch inputs inside the Unity editor. This means you can test complex gestures like pinch and twist without deploying to your mobile device, saving you a lot of development time.
 
 ## Screenshots
-<img src="Screenshots/1.jpg" width="650" height="400"> <img src="Screenshots/2.jpg" width="650" height="400"> <img src="Screenshots/5.jpg"width="650" height="400">
+<img src="Screenshots/1.jpg" width="650" height="400"> 
+<img src="Screenshots/2.jpg" width="650" height="400"> 
+<img src="Screenshots/5.jpg"width="650" height="400">
 
 More Screenshots can be viewed [here](Screenshots/)
