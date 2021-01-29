@@ -1,4 +1,13 @@
 # Android AR Based Application
+
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Nehal-Bhautoo/AR-Application-for-museum?style=plastic">
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nehal-Bhautoo/AR-Application-for-museum">
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Nehal-Bhautoo/AR-Application-for-museum">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nehal-Bhautoo/AR-Application-for-museum">
+
 ## Description
 
 This project aims at developing an augmented reality application for the national motor museum located in England. AR applications implementation varies in multiple domains like construction, automobile and medical. Many organisation are taking advantage of mobile AR application as it is easy to implement and requires fewer physical materials which save the overall budget for a particular project. This paper proposed a mobile AR application that improves the visiting experience for a museum. 
