@@ -1,6 +1,6 @@
 # Android AR Based Application
 
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Nehal-Bhautoo/AR-Application-for-museum?style=plastic"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nehal-Bhautoo/AR-Application-for-museum"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Nehal-Bhautoo/AR-Application-for-museum"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nehal-Bhautoo/AR-Application-for-museum">
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Nehal-Bhautoo/AR-Application-for-museum?style=plastic"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nehal-Bhautoo/AR-Application-for-museum"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Nehal-Bhautoo/AR-Application-for-museum"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nehal-Bhautoo/AR-Application-for-museum"> <a href="https://www.codefactor.io/repository/github/nehal-bhautoo/ar-application-for-museum"><img src="https://www.codefactor.io/repository/github/nehal-bhautoo/ar-application-for-museum/badge" alt="CodeFactor" /></a>
 
 ## Description
 
